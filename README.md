@@ -19,7 +19,7 @@ http://foundationphp.com/tutorials/vhosts_leopard.php
     sudo python ~/newhost.py "name_of_your_vhost" "directory"  
 -- note that the directory parameter is optional.  if left blank it will create an entry using the current working directory as your host --  
 
-***4)** if you want to make your life easier and type less you can add an alias for this in your '~/.bash_profile'  
+**4)** if you want to make your life easier and type less you can add an alias for this in your '~/.bash_profile'  
     sudo nano ~/.bash_profile  
 add the following line  
     alias newhost='sudo python ~/newhost.py'    
