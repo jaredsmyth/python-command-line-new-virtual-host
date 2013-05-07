@@ -16,17 +16,17 @@ http://foundationphp.com/tutorials/vhosts_leopard.php
 **2)** place the newhost.py file in your '~/' directoy
 
 **3)** you can begin using just like that by calling   
-*sudo python ~/newhost.py 'name_of_your_vhost" "directory"*  
+    sudo python ~/newhost.py "name_of_your_vhost" "directory"  
 -- note that the directory parameter is optional.  if left blank it will create an entry using the current working directory as your host --  
 
 ***4)** if you want to make your life easier and type less you can add an alias for this in your '~/.bash_profile'  
-*sudo nano ~/.bash_profile*  
+    sudo nano ~/.bash_profile  
 add the following line  
-*alias newhost='sudo python ~/newhost.py'*  
+    alias newhost='sudo python ~/newhost.py'    
 then restart your terminal for the changes to take effect  
 
 **5)** if you added the alias in you '~/.bash_profile' in the above step you can now use this script to create new vhosts by simply typing  
-*newhost "name_of_your_vhost" "directory"*  
+    newhost "name_of_your_vhost" "directory"  
 -- again, note that the directory parameter is optional --  
 
 ----------------------------------------
