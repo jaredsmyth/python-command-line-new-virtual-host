@@ -7,7 +7,7 @@ jared smith | http://jaredsmyth.info
 
 jvst | http://jvst.us
 
-useage
+usage
 ======
 
 **1)** follow this tutorial to setup up vhosts on your mac if you are running vhosts for the frst time
