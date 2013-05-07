@@ -1,7 +1,11 @@
 python-command-line-new-virtual-host
 ====================================
 
-script to create a new virtual host with two arguments for name and directory that you can pass to it from the command line
+script to create a new virtual host with two arguments for name and directory that you can pass to it from the command line  
+
+jared smith | http://jaredsmyth.info
+
+jvst | http://jvst.us
 
 useage
 ======
